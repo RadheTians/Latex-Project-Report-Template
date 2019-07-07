@@ -1,0 +1,61 @@
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Abstract}{2}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Declaration}{3}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Supervisor Certificate}{4}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }HOD Certificate}{5}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil } Examiner Certificate}{6}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Acknowledgement}{7}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }List of abbreviations}{11}% 
+\contentsline {chapter}{\numberline {1}Introduction}{13}% 
+\contentsline {section}{\numberline {1.1}Outline of the report}{13}% 
+\contentsline {section}{\numberline {1.2}Gantt chart}{14}% 
+\contentsline {chapter}{\numberline {2}Existing System Study}{15}% 
+\contentsline {section}{\numberline {2.1}A brief Introduction}{16}% 
+\contentsline {section}{\numberline {2.2}Study methods}{17}% 
+\contentsline {section}{\numberline {2.3}What is Android Operating System}{17}% 
+\contentsline {section}{\numberline {2.4}Software Requirements}{17}% 
+\contentsline {chapter}{\numberline {3}System Analysis, Design \& Implementation}{19}% 
+\contentsline {section}{\numberline {3.1}Introduction}{20}% 
+\contentsline {section}{\numberline {3.2}System Analysis}{20}% 
+\contentsline {subsection}{\numberline {3.2.1}System Objective}{20}% 
+\contentsline {subsection}{\numberline {3.2.2}Relation to External Environment}{20}% 
+\contentsline {subsection}{\numberline {3.2.3} Design Considerations}{20}% 
+\contentsline {subsection}{\numberline {3.2.4} System Architecture}{21}% 
+\contentsline {paragraph}{List Form :}{21}% 
+\contentsline {paragraph}{Chat form :}{21}% 
+\contentsline {paragraph}{Flow Chart :}{21}% 
+\contentsline {subsection}{\numberline {3.2.5} Operational Concepts and Scenarios}{22}% 
+\contentsline {paragraph}{List Form :}{22}% 
+\contentsline {paragraph}{Chat form :}{22}% 
+\contentsline {paragraph}{Exit :}{22}% 
+\contentsline {section}{\numberline {3.3}Design}{23}% 
+\contentsline {subsection}{\numberline {3.3.1}Flow Chart}{23}% 
+\contentsline {subsection}{\numberline {3.3.2}Data Flow Diagram}{24}% 
+\contentsline {subsubsection}{User Case Table :}{24}% 
+\contentsline {subsubsection}{Authentication System :}{24}% 
+\contentsline {subsubsection}{Contacts Form :}{25}% 
+\contentsline {subsubsection}{Chat Form :}{26}% 
+\contentsline {subsubsection}{Maintenance :}{26}% 
+\contentsline {subsection}{\numberline {3.3.3}UML Class Diagram}{27}% 
+\contentsline {subsection}{\numberline {3.3.4}Database Design}{28}% 
+\contentsline {section}{\numberline {3.4}Implementation}{30}% 
+\contentsline {subsection}{\numberline {3.4.1}Functional Requirements}{30}% 
+\contentsline {subsection}{\numberline {3.4.2}Non Functional Requirements}{31}% 
+\contentsline {chapter}{\numberline {4}Result Analysis and Testing}{32}% 
+\contentsline {section}{\numberline {4.1}Introduction}{33}% 
+\contentsline {section}{\numberline {4.2}Source Code}{33}% 
+\contentsline {subsection}{\numberline {4.2.1}Screenshot}{33}% 
+\contentsline {section}{\numberline {4.3}Result Analysis}{33}% 
+\contentsline {subsection}{\numberline {4.3.1}Application Objectives :- }{33}% 
+\contentsline {section}{\numberline {4.4}Test Cases}{35}% 
+\contentsline {subsection}{\numberline {4.4.1}Test for Home Page Activity}{36}% 
+\contentsline {subsection}{\numberline {4.4.2}Test for Profile Page Activity}{37}% 
+\contentsline {subsection}{\numberline {4.4.3}Test for Blog Post Page Activity}{38}% 
+\contentsline {chapter}{\numberline {5}Conclusion}{40}% 
+\contentsline {section}{\numberline {5.1}Future direction and Scope}{41}% 
+\contentsline {chapter}{Appendix \numberline {A}Screenshot and Description of the Implemented System}{42}% 
+\contentsline {section}{\numberline {A.1}Screenshot}{42}% 
+\contentsline {chapter}{Appendix \numberline {B}User manual}{47}% 
+\contentsline {section}{\numberline {B.1}System Specification}{47}% 
+\contentsline {subsection}{\numberline {B.1.1}Hardware requirement :}{47}% 
+\contentsline {subsection}{\numberline {B.1.2}Software requirement :}{47}% 
+\contentsline {section}{\numberline {B.2}Installation}{48}% 

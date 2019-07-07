@@ -1,0 +1,74 @@
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Abstract}{2}{chapter*.1}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Declaration}{3}{chapter*.2}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Acknowledgement}{4}{chapter*.3}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }List of abbreviations}{9}{chapter*.6}% 
+\contentsline {chapter}{\numberline {1}Introduction}{10}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Problem Statement}{11}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Outline of the report}{11}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Gantt chart}{11}{section.1.3}% 
+\contentsline {chapter}{\numberline {2}Background Study}{13}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Introduction}{14}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Machine Learning}{14}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Types}{14}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Features}{14}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Generalization}{15}{subsection.2.2.3}% 
+\contentsline {section}{\numberline {2.3}Neural Networks}{15}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Origins}{15}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Multi-layer networks}{16}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}Back-propagation}{17}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}Deep learning}{18}{subsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.3.5}Activation function type}{19}{subsection.2.3.5}% 
+\contentsline {section}{\numberline {2.4}Computer vision}{19}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Overview}{19}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Object detection}{20}{subsection.2.4.2}% 
+\contentsline {section}{\numberline {2.5}Convolutional neural networks}{21}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.5.1}Justification}{21}{subsection.2.5.1}% 
+\contentsline {subsection}{\numberline {2.5.2}Basic structure}{21}{subsection.2.5.2}% 
+\contentsline {subsection}{\numberline {2.5.3} Pooling and stride}{23}{subsection.2.5.3}% 
+\contentsline {subsection}{\numberline {2.5.4}Additional layers}{23}{subsection.2.5.4}% 
+\contentsline {subsection}{\numberline {2.5.5}Regularization and data augmentation}{24}{subsection.2.5.5}% 
+\contentsline {subsection}{\numberline {2.5.6}Development}{24}{subsection.2.5.6}% 
+\contentsline {chapter}{\numberline {3}Convolutional object detection}{26}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Introduction}{27}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}R-CNN}{27}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}General description}{27}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Drawbacks}{28}{subsection.3.2.2}% 
+\contentsline {section}{\numberline {3.3}Fast R-CNN}{28}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}General description}{28}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Classification performance}{28}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Training}{29}{subsection.3.3.3}% 
+\contentsline {section}{\numberline {3.4}Region proposal generation and use}{29}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Overview}{30}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Selective Search}{31}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.3}Edge Boxes}{31}{subsection.3.4.3}% 
+\contentsline {section}{\numberline {3.5}Faster R-CNN}{32}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}Overview}{32}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}General description}{33}{subsection.3.5.2}% 
+\contentsline {section}{\numberline {3.6} SSD}{33}{section.3.6}% 
+\contentsline {subsection}{\numberline {3.6.1}Overview}{33}{subsection.3.6.1}% 
+\contentsline {section}{\numberline {3.7}Comparing the methods}{34}{section.3.7}% 
+\contentsline {chapter}{\numberline {4}Implementation and Setup}{36}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Introduction}{37}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Data Acquisition}{37}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Insects Data Exploration }{37}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Weed Data Exploration }{38}{subsection.4.2.2}% 
+\contentsline {section}{\numberline {4.3}Region Proposal Networks}{39}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Translation-Invariant Anchors}{42}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}A Loss Function for Learning Region Proposals}{43}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Optimization}{44}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}Sharing Convolutional Features for Region Proposal and Object Detection}{44}{subsection.4.3.4}% 
+\contentsline {section}{\numberline {4.4}Edge Boxes Parameters}{45}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}Faster R-CNN Architecture Model}{46}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Iterative Region Proposal Refinement Model}{46}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.5.2}LSTM Region Proposal Refinement Model}{50}{subsection.4.5.2}% 
+\contentsline {chapter}{\numberline {5}Result Analysis and Conclusion }{52}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Result Analysis}{53}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Conclusion}{53}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}Overview}{53}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.2}Practice}{56}{subsection.5.2.2}% 
+\contentsline {section}{\numberline {5.3}The Future}{56}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Hardware Requirement}{57}{section.5.4}% 
+\contentsline {chapter}{References}{58}{chapter*.11}% 
+\contentsline {chapter}{Appendix \numberline {A}Image Detection and Classification Source Code}{60}{Appendix.1.A}% 
+\contentsline {chapter}{Appendix \numberline {B}Video Detection and Classification Source Code}{63}{Appendix.2.B}% 
+\contentsline {chapter}{Appendix \numberline {C}Webcam Detection and Classification Source Code}{66}{Appendix.3.C}% 

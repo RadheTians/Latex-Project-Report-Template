@@ -1,0 +1,136 @@
+\documentclass[12pt]{report}
+\usepackage[vmargin=35mm]{geometry}
+\usepackage{helvet}
+\usepackage{hyperref}
+\usepackage{amsfonts}
+\usepackage{fancyhdr} 
+\usepackage{graphicx}
+\usepackage{mathptmx}
+\usepackage{setspace}
+\usepackage{xspace}
+\usepackage{longtable}
+\usepackage{tabto}
+\usepackage{array}
+\usepackage[utf8]{inputenc}
+\usepackage[table]{xcolor}
+\usepackage[titletoc]{appendix}
+\usepackage{listings}
+\usepackage{apacite}
+\usepackage{color}
+\usepackage{float}
+\usepackage[caption = false]{subfig}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\lstset{style=mystyle}
+\setlength{\arrayrulewidth}{1mm}
+\setlength{\tabcolsep}{18pt}
+\renewcommand{\arraystretch}{2.5}
+ 
+\newcolumntype{s}{>{\columncolor[HTML]{AAACED}} p{3cm}}
+ 
+\arrayrulecolor[HTML]{DB5800}
+ 
+
+\renewcommand{\rmdefault}{ptm}
+\date{}
+
+
+\font\myfont=cmr12 at 30pt
+\font\authorfont=cmr12 at 18pt
+\font\iiitmfont=cmr12 at 18pt
+\font\certificatefont=cmr12 at 16pt
+\title{\vspace{-4.0cm}\myfont{\textbf{ INSECTS \& WEED DETECTION FROM RICE CROP USING FASTER R-CNN }}}
+\author{\authorfont BY \\ \authorfont RADHE RAMAN TIWARI \\  Student at IIITMANIPUR\\ Supervised by \\ \authorfont Dr. SHRIVISHAL TRIPATHI \\ Assistant Professor, ECE at IIITNaya Raipur}
+
+\begin{document}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\fancyhead[R]{}
+\fancyhead[L]{\chaptername\ \thechapter\ --\ \leftmark}
+
+\begin{figure}
+
+\maketitle
+\bigskip 
+\includegraphics[scale=0.25]{head.png}
+\centering
+
+\bigskip \bigskip 
+
+THESIS\bigskip
+ 
+SUBMITTED TO\bigskip
+ 
+DR. SHYAMA PRASAD MUKHERJEE INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY,NAYA RAIPUR\bigskip\bigskip
+ 
+Summer Internship May - July 2K19\bigskip 
+
+JULY, 2K19
+\end{figure}
+
+\include{abstract}
+
+\include{declaration}
+
+\include{acknowledgement}
+
+\tableofcontents
+
+\listoffigures
+
+\include{abbreviations}
+
+\include{chap1}
+
+\include{chap2}
+
+\include{chap3}
+
+\include{chap4}
+
+\include{chap5}
+
+
+\bibliography{references}
+\bibliographystyle{apacite}
+\cite{7485869}
+\cite{7567333}
+\cite{7743317}
+\cite{8301662}
+\cite{8453426}
+\cite{8623234}
+\cite{8629137}
+\cite{8695451}
+\cite{NIPS2015_5638}
+\cite{1234}
+\cite{12345}
+\cite{123456}
+
+\include{appendixa}
+\include{appendixb}
+\include{appendixc}
+
+\end{document}

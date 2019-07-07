@@ -1,0 +1,354 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{Barrero}%
+, {Rojas}%
+, {Gonzalez}%
+\BCBL {}\ \BBA {} {Perdomo}%
+}{%
+{Barrero}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+7743317}
+\APACinsertmetastar {%
+7743317}%
+\begin{APACrefauthors}%
+{Barrero}, O.%
+, {Rojas}, D.%
+, {Gonzalez}, C.%
+\BCBL {}\ \BBA {} {Perdomo}, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{Aug}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Weed detection in rice fields using aerial images and
+  neural networks} {Weed detection in rice fields using aerial images and
+  neural networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2016 XXI Symposium on Signal Processing, Images and
+  Artificial Vision (STSIVA)} {2016 xxi symposium on signal processing, images
+  and artificial vision (stsiva)}\ (\BPG~1-4).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Chu}%
+\ \protect \BOthers {.}}{%
+{Chu}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+8623234}
+\APACinsertmetastar {%
+8623234}%
+\begin{APACrefauthors}%
+{Chu}, H.%
+, {Zhang}, D.%
+, {Shao}, Y.%
+, {Chang}, Z.%
+, {Guo}, Y.%
+\BCBL {}\ \BBA {} {Zhang}, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{Nov}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Using HOG Descriptors and UAV for Crop Pest Monitoring}
+  {Using hog descriptors and uav for crop pest monitoring}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2018 Chinese Automation Congress (CAC)} {2018 chinese
+  automation congress (cac)}\ (\BPG~1516-1519).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{de Oca}%
+, {Arreola}%
+, {Flores}%
+, {Sanchez}%
+\BCBL {}\ \BBA {} {Flores}%
+}{%
+{de Oca}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+8453426}
+\APACinsertmetastar {%
+8453426}%
+\begin{APACrefauthors}%
+{de Oca}, A\BPBI M.%
+, {Arreola}, L.%
+, {Flores}, A.%
+, {Sanchez}, J.%
+\BCBL {}\ \BBA {} {Flores}, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Low-cost multispectral imaging system for crop
+  monitoring} {Low-cost multispectral imaging system for crop
+  monitoring}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2018 International Conference on Unmanned Aircraft
+  Systems (ICUAS)} {2018 international conference on unmanned aircraft systems
+  (icuas)}\ (\BPG~443-451).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {Figshare}}{%
+\APACciteatitle {Figshare}}{%
+{\protect \APACyear {accessed June 15, 2019}}%
+}]{%
+12345}
+\APACinsertmetastar {%
+12345}%
+{\BBOQ}\APACrefatitle {Figshare} {Figshare}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\APACrefYearMonthDay{accessed June 15, 2019}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://figshare.com/articles/rice_seedlings_and_weeds/7488830}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Hameed}%
+\ \BBA {} {Amin}%
+}{%
+{Hameed}%
+\ \BBA {} {Amin}%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+8629137}
+\APACinsertmetastar {%
+8629137}%
+\begin{APACrefauthors}%
+{Hameed}, S.%
+\BCBT {}\ \BBA {} {Amin}, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{Nov}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Detection of Weed and Wheat Using Image Processing}
+  {Detection of weed and wheat using image processing}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2018 IEEE 5th International Conference on Engineering
+  Technologies and Applied Sciences (ICETAS)} {2018 ieee 5th international
+  conference on engineering technologies and applied sciences (icetas)}\
+  (\BPG~1-5).
+\newblock
+\begin{APACrefDOI} \doi{10.1109/ICETAS.2018.8629137} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Liu}%
+}{%
+{Liu}%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+8695451}
+\APACinsertmetastar {%
+8695451}%
+\begin{APACrefauthors}%
+{Liu}, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{Dec}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An Improved Faster R-CNN for Object Detection} {An
+  improved faster r-cnn for object detection}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2018 11th International Symposium on Computational
+  Intelligence and Design (ISCID)} {2018 11th international symposium on
+  computational intelligence and design (iscid)}\ (\BVOL~02, \BPG~119-123).
+\newblock
+\begin{APACrefDOI} \doi{10.1109/ISCID.2018.10128} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ren%
+, He%
+, Girshick%
+\BCBL {}\ \BBA {} Sun%
+}{%
+Ren%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+NIPS2015_5638}
+\APACinsertmetastar {%
+NIPS2015_5638}%
+\begin{APACrefauthors}%
+Ren, S.%
+, He, K.%
+, Girshick, R.%
+\BCBL {}\ \BBA {} Sun, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Faster R-CNN: Towards Real-Time Object Detection with
+  Region Proposal Networks} {Faster r-cnn: Towards real-time object detection
+  with region proposal networks}.{\BBCQ}
+\newblock
+\BIn{} C.~Cortes, N\BPBI D.~Lawrence, D\BPBI D.~Lee, M.~Sugiyama\BCBL {}\ \BBA
+  {} R.~Garnett\ (\BEDS), \APACrefbtitle {Advances in Neural Information
+  Processing Systems 28} {Advances in neural information processing systems
+  28}\ (\BPGS\ 91--99).
+\newblock
+\APACaddressPublisher{}{Curran Associates, Inc.}
+\newblock
+\begin{APACrefURL}
+  \url{http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Ren}%
+, {He}%
+, {Girshick}%
+\BCBL {}\ \BBA {} {Sun}%
+}{%
+{Ren}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+7485869}
+\APACinsertmetastar {%
+7485869}%
+\begin{APACrefauthors}%
+{Ren}, S.%
+, {He}, K.%
+, {Girshick}, R.%
+\BCBL {}\ \BBA {} {Sun}, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Faster R-CNN: Towards Real-Time Object Detection with
+  Region Proposal Networks} {Faster r-cnn: Towards real-time object detection
+  with region proposal networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}{39}{6}{1137-1149}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/TPAMI.2016.2577031} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {Rice Knowledge Bank}}{%
+\APACciteatitle {Rice Knowledge Bank}}{%
+{\protect \APACyear {accessed June 10, 2019}}%
+}]{%
+1234}
+\APACinsertmetastar {%
+1234}%
+{\BBOQ}\APACrefatitle {Rice Knowledge Bank} {Rice knowledge bank}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\APACrefYearMonthDay{accessed June 10, 2019}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.knowledgebank.irri.org/step-by-step-production/growth/pests-and-diseases/insects}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Saha}%
+\ \protect \BOthers {.}}{%
+{Saha}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+8301662}
+\APACinsertmetastar {%
+8301662}%
+\begin{APACrefauthors}%
+{Saha}, A\BPBI K.%
+, {Saha}, J.%
+, {Ray}, R.%
+, {Sircar}, S.%
+, {Dutta}, S.%
+, {Chattopadhyay}, S\BPBI P.%
+\BCBL {}\ \BBA {} {Saha}, H\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{Jan}{}.
+\newblock
+{\BBOQ}\APACrefatitle {IOT-based drone for improvement of crop quality in
+  agricultural field} {Iot-based drone for improvement of crop quality in
+  agricultural field}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2018 IEEE 8th Annual Computing and Communication
+  Workshop and Conference (CCWC)} {2018 ieee 8th annual computing and
+  communication workshop and conference (ccwc)}\ (\BPG~612-615).
+\newblock
+\begin{APACrefDOI} \doi{10.1109/CCWC.2018.8301662} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Shah}%
+, {Prajapati}%
+\BCBL {}\ \BBA {} {Dabhi}%
+}{%
+{Shah}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+7567333}
+\APACinsertmetastar {%
+7567333}%
+\begin{APACrefauthors}%
+{Shah}, J\BPBI P.%
+, {Prajapati}, H\BPBI B.%
+\BCBL {}\ \BBA {} {Dabhi}, V\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{March}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A survey on detection and classification of rice plant
+  diseases} {A survey on detection and classification of rice plant
+  diseases}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2016 IEEE International Conference on Current Trends in
+  Advanced Computing (ICCTAC)} {2016 ieee international conference on current
+  trends in advanced computing (icctac)}\ (\BPG~1-8).
+\newblock
+\begin{APACrefDOI} \doi{10.1109/ICCTAC.2016.7567333} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+University%
+}{%
+University%
+}{%
+{\protect \APACyear {accessed June 30, 2019}}%
+}]{%
+123456}
+\APACinsertmetastar {%
+123456}%
+\begin{APACrefauthors}%
+University, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{accessed June 30, 2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Convolutional Neural Networks} {Convolutional neural
+  networks}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{http://cs231n.github.io/convolutional-networks/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

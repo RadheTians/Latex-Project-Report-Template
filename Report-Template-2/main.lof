@@ -1,0 +1,35 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Gantt Chat}}{14}% 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Flow Chart}}{21}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Flow Diagram}}{23}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces User Case Table}}{24}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Use Case Diagram of Authentication System}}{25}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Use Case Diagram of Contacts Form}}{25}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Use Case Diagram of Chat Form}}{26}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Use Case Diagram of Maintenance}}{26}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces UML Class diagram}}{27}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Firebase users database text messages list}}{28}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Firebase users authentication list}}{29}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Firebase storage folders list}}{30}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Home page activity code which contains all home fragments }}{33}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Login activity code where user will login }}{34}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Register activity code where user will register}}{34}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Script to convert firebase timestamp to real time }}{35}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Home page activity contains four fragments.}}{37}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces User profile page activity.}}{38}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Blog post page activity.}}{39}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces New Post activity.}}{39}% 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Start Page Activity.}}{43}% 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces User Register Activity.}}{43}% 
+\contentsline {figure}{\numberline {A.3}{\ignorespaces User Login Activity.}}{44}% 
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Popular News Page Activity.}}{44}% 
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Specific News Activity.}}{45}% 
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Other User Profile Activity.}}{45}% 
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Individual Chat Activity.}}{46}% 
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Find Friends Activity.}}{46}% 
+\addvspace {10\p@ }

@@ -1,0 +1,63 @@
+\chapter{Introduction}\label{chap1}
+
+Rice cultivation is one of the most important economical sectors for Indian economy. Hence, the need to develop technological tools to improve the management and productivity of the sector. One of the problems in rice fields is weed plants and rice insects, due to the fact that these plants compete for water and nutrients reducing up to 60-70\% of the field yield if not control is carried out. Generally, it can be considered that critical periods for competence in any cultivation with weed are at initial of growing and development states, for rice as found in this period is between 0 and 75 days. Therefore the identification and removal of this plants are very important for rice growers..\\
+
+Recent advances in object detection are driven by the success of region proposal methods and faster region-based convolutional neural networks (Faster R-CNNs). Although region-based CNNs were computationally expensive as originally developed in, their cost has been drastically reduced thanks to sharing convolutions across proposals. The latest incarnation, Faster R-CNN, achieves near real-time rates using very deep networks, when ignoring the time spent on region proposals. Now, proposals are the test-time computational bottleneck in state-of-the-art detection systems. Region proposal methods typically rely on inexpensive features and economical inference schemes. Selective Search, one of the most popular methods, greedily merges superpixels based on engineered low-level features. Yet when compared to efficient detection networks, Selective Search is an order of magnitude slower, at 2 seconds per image in a CPU implementation. EdgeBoxes currently provides the best tradeoff between proposal quality and speed, at 0.2 seconds per image. Nevertheless, the region proposal step still consumes as much running time as the detection network. One may note that fast region-based CNNs take advantage of GPUs, while the region proposal methods used in research are implemented on the CPU, making such runtime comparisons inequitable.An obvious way to accelerate proposal computation is to re-implement it for the GPU.This may be an effective engineering solution, but re-implementation ignores the down-stream detection network and therefore misses important opportunities for sharing computation. \\
+
+In this project we focus on the weed and insects identification and classification problem, therefore, we propose to use aerial images, captured from a UAV at 10 meters over ground, and faster region-based convolutional neural networks (Faster R-CNNs), which is a mature technique for pattern recognition and classification to detect weed plants and rice insects into a rice field.\\
+
+The project is organized as follows, first, we present the methodology where we describe the location where the study was done, then, how the images are acquired and how the Faster R-CNN is trained, tested and validated. Afterward the results are shown and discussed to finally make conclusion.
+
+\section{Problem Statement}
+Objects contained in image files can be located and identified automatically. This is called object detection and is one of the basic problems of computer vision. As we will demonstrate,faster region-base convolutional neural networks(Faster R-CNN) are currently the state-of-the-art solution for object detection. The main task of this thesis is to detection and classification of rice crop insects and weed in rice crop field with the help of images and videos in real-time
+
+
+
+
+\section{Outline of the report}
+This report is organised around five main parts....
+\begin{onehalfspace}
+
+{\bf Chapter~\ref{chap1}}  Introduction to the project
+  
+{\bf Chapter~\ref{chap2}}  Background Study.
+
+{\bf Chapter~\ref{chap3}}  Convolutional Object Detection
+ 
+{\bf Chapter~\ref{chap4}}  Implementation and Setup
+
+{\bf Chapter~\ref{chap5}}  Result Analysis \& Conclusion
+
+\end{onehalfspace}
+
+\section{Gantt chart}
+For the completion of any work we need to plan and divide the work in some time frame.I
+divided my work according to the following Gantt Chart.
+
+\begin{figure}[!ht]
+\centering
+\begin{tabular}{ |s|s|s|  }
+\hline
+\rowcolor{lightgray} \multicolumn{3}{|c|}{Weed and Insects detection using faster R-CNN} \\
+\hline
+(21 May-31 May)&(1 Jun - 24 Jun)&(24 Jun - 01 July)\\
+\hline
+ & &  \\
+\rowcolor{gray}
+Research paper reading and Planning & & \\
+ & & \\
+ & Research study, Designing and Implementation & \\
+ & & \\
+ & & \cellcolor[HTML]{AA0044} Testing and Report-Writing\\
+ & & \\
+\hline
+\end{tabular}
+
+\caption{\label{img} Gantt Chat}
+\end{figure}
+
+
+The figure 1.1 chart describes the time frame of simultaneous phases of the project. The first phase is the analysis phase, in which I completed the study of research papers, previous related works and their outcomes. The second phase is the design and implementation phase, in which I completed train of Faster R-CNN models with the help of rice crop insects and weed raw images data-set by Python3 programming language. The third phase is the testing and report-writing phase, in which I completed the testing of models with their predicted result and report-writing by Latex.
+
+
+

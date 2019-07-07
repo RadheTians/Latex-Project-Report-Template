@@ -1,0 +1,28 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Gantt Chat}}{12}{figure.1.1}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces An artificial neuron.}}{16}{figure.2.1}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A fully-connected multi-layer neural network.}}{17}{figure.2.2}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Detecting horizontal edges from an image using convolution filtering.}}{22}{figure.2.3}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces An example of a convolutional network.}}{22}{figure.2.4}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Stages of R-CNN forward computation.}}{27}{figure.3.1}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Stages of Fast R-CNN forward computation.}}{29}{figure.3.2}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces SSD Architecture}}{34}{figure.3.3}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Histogram of insects dataset}}{38}{figure.4.1}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Rice crop insects species list}}{39}{figure.4.2}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Insects species name-I}}{40}{figure.4.3}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Insects species name-II}}{40}{figure.4.4}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Insects species name-III}}{41}{figure.4.5}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Insects species name-IV}}{41}{figure.4.6}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Region Proposal Network (RPN)}}{42}{figure.4.7}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Architecture of Faster R-CNN}}{47}{figure.4.8}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Architecture of Faster R-CNN with iterative region proposal refinement}}{49}{figure.4.9}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Architecture of Faster R-CNN with LSTM region proposal refinement.}}{51}{figure.4.10}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Classification and Detection Result-I}}{54}{figure.5.1}% 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Classification and Detection Result-II}}{55}{figure.5.2}% 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
